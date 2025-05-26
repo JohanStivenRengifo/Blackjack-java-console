@@ -1,4 +1,4 @@
-# Plan de Trabajo - Proyecto Black Jack (Consola Java)
+# Proyecto Black Jack (Consola Java)
 
 ## Authors
 
